@@ -63,7 +63,7 @@ p{
     padding: 50px;
     margin: 25px auto 0;
     box-shadow: 0 0 20px rgba(0,0,0,0.5);
-    background-image: url('../pix.jpg');
+    background-image: url('pix.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
