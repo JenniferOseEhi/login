@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3{
+    color: red;
+    font-size: 35px;
+    padding: 15px;
+    margin-left: 40px;
+}
+
+.social-icons{
+    padding: 15px;
+    margin-left: 70px;
+}
+
+.fa{
+    margin: 5px;
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 100%;
+}
+
+.fa-twitter:hover{
+    color: red;
+    background-color: black;
+}
+
+.fa-linkedin:hover{
+    color: red;
+    background-color: black;
+}
+
+.fa-facebook:hover{
+    color: red;
+    background-color: black;
+}
+
+.fa-instagram:hover{
+    color: red;
+    background-color: black;
+}
+
+p{
+    padding: 15px;
+    font-size: 15px;
+    margin: 10px;
+    margin-left: 55px;
+}
+
+.container{
+    background-color: transparent;
+    width: 700px;
+    padding: 50px;
+    margin: 25px auto 0;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    background-image: url('../pic/pix.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+.input{
+    color: gray;
+    padding: 10px;
+    margin: 5px;
+    width: 20rem;
+    border-radius: 5px;
+    border: 1px solid rgb(209, 207, 207);
+    background-color: rgb(247, 245, 245);
+}
+
+.fa-check-square{
+    border: none;
+    padding: 0;
+    font-size: 25px;
+    text-decoration: none;
+    color: red;
+}
+
+span{
+    color: red;
+}
+
+.button{
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    width: 19%;
+    margin: 5px;
+    margin-top: 40px;
+}
+
+#sign-up{
+    background-color: red;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+#sign-in{
+    border: 1px solid red;
+    color: red;
+    font-weight: bold;
+}
